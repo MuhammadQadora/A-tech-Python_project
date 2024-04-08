@@ -2,6 +2,7 @@
 The app will welcome and prompt you to choose an option from the ones available.
 
 It is pretty straight forward.
+
 Welcome to the mini CLI
 
     The available commands are:
